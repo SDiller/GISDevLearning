@@ -1,1 +1,1 @@
-# GISDevelopmentLearning
+# GISDevLearning
